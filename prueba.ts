@@ -20,5 +20,6 @@ function main(){
   const unaBanda=new Banda(["soyelstring"],unAlbun)
 console.log(unaBanda)
 console.log("otro cambio")
+  console.log("cambio desde gitbusch")
 }
 main()

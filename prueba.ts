@@ -19,5 +19,6 @@ function main(){
   const unAlbun=new Albun("albunpruebba",4)
   const unaBanda=new Banda(["soyelstring"],unAlbun)
 console.log(unaBanda)
+console.log("otro cambio")
 }
 main()
